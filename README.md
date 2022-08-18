@@ -1,5 +1,10 @@
 # Work Day Scheduler
 
+## Deployed links
+
+https://github.com/christophertravisp91/Challenge5
+https://christophertravisp91.github.io/Challenge5/
+
 ## Use Cases
 
 First you can click on any time block and edit text to write down what you have to do in that hour.
